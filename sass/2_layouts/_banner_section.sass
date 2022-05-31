@@ -1,0 +1,10 @@
+@use '../1_base/base_mixins'
+@use 'layouts_mixins'
+
+.banners
+    @include layouts_mixins.center-content
+    padding: 3rem 0
+
+    @include base_mixins.sm
+        flex-direction: column
+        align-items: center

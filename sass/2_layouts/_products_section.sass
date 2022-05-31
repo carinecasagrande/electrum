@@ -1,0 +1,23 @@
+@use '../1_base/base_mixins'
+@use 'layouts_mixins'
+
+.products-grid
+    @include layouts_mixins.center-content
+    flex-direction: column
+    padding: 2rem 0
+
+    h2
+        font-size: 2rem
+        text-transform: uppercase
+
+        @include base_mixins.sm
+            text-align: center
+
+    &-container
+        display: flex
+        justify-content: space-between
+        padding: 2rem 0
+
+        @include base_mixins.sm
+            flex-direction: column
+            align-items: center
