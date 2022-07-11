@@ -1,15 +1,13 @@
-# Electrum - SASS e SCSS do básico ao avançado + Projetos (Udemy)
+# Electrum
+Project developed during the course [SASS and SCSS from basic to advanced + Projects](https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos/), available on [Udemy](https://www.udemy.com/) by instructor Matheus Battisti.
 
-Projeto desenvolvido no curso [SASS e SCSS do básico ao avançado + Projetos](https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos/) na plataforma da Udemy.  
+### Result
+The result can be seen [here](https://carinecasagrande.github.io/electrum/).
 
-### Links
-- [Resultado](https://carinecasagrande.github.io/electrumSASS/)
-
-### Tecnologias
-- HTML5
+### Technologies
+- HTML
 - SASS
 
-### Autor
+### Author
 - [LinkedIn](https://www.linkedin.com/in/carinecasagrande/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/carinecasagrande)
 - [GitHub](https://github.com/carinecasagrande)
